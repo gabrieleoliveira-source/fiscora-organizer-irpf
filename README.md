@@ -20,10 +20,10 @@ O projeto recebeu uma identidade própria chamada FISCORA, representada por uma 
 
 ## Demonstração
 ### Tela inicial
-![Tela inicial](print-tela-inicial-irpf.png)
+![Tela Inicial do Organizador de Imposto de Renda](print-tela-inicial-irpf.PNG)
 
 ### Informações e rendimentos
-![Informações](print-informes-irpf.png)
+![Informes de Rendimentos](print-informes-irpf.PNG)
 
 ## IMPORTANTE
 > Essa ferramenta tem funcionalidade apenas de organização de informações e não substitui a declaração de Imposto de Renda.
